@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.5",
+    "dotenv": "^16.0.3",
+    "truffle": "^5.8.2"
+  },
+  "name": "solidity-truffle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
